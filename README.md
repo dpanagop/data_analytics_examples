@@ -2,7 +2,7 @@
 
 This repository contains code that is used for various data analysis/data science projects. In most cases, the code is related to a Medium post.
 
--[https://github.com/dpanagop/data_analytics_examples/tree/master/online_retail](https://github.com/dpanagop/data_analytics_examples/tree/master/online_retail) has code related to 
+- [https://github.com/dpanagop/data_analytics_examples/tree/master/online_retail](https://github.com/dpanagop/data_analytics_examples/tree/master/online_retail) has code related to 
 an example of segmentation of wholesale customers. It is split into two parts. The [first part](https://towardsdatascience.com/customer-segmentation-part-i-2c5e2145e719) uses natural language processing 
 to cluster clients based on their transactions. The [second part](https://towardsdatascience.com/customer-segmentation-part-ii-1c94bdc03de5) creates an RFM segmentation which is combined with the results of the first part.
 
