@@ -11,3 +11,4 @@ to cluster clients based on their transactions. The [second part](https://toward
 
 - [Markov_text_generation.ipynb](https://github.com/dpanagop/data_analytics_examples/blob/master/Markov_text_generation.ipynb) is a jupyter notebook that uses Markov chains to produce text. You can read more in 
 the related [Medium article](https://towardsdatascience.com/using-a-transition-matrix-to-generate-text-in-python-c5e78495b09b?source=your_stories_page-------------------------------------).
+- [UMPA](https://github.com/dpanagop/data_analytics_examples/blob/master/UMAP.ipynb) is an example of [UMAP](https://umap-learn.readthedocs.io/en/latest/) algorithm
