@@ -11,4 +11,9 @@ to cluster clients based on their transactions. The [second part](https://toward
 
 - [Markov_text_generation.ipynb](https://github.com/dpanagop/data_analytics_examples/blob/master/Markov_text_generation.ipynb) is a jupyter notebook that uses Markov chains to produce text. You can read more in 
 the related [Medium article](https://towardsdatascience.com/using-a-transition-matrix-to-generate-text-in-python-c5e78495b09b?source=your_stories_page-------------------------------------).
+
 - [UMAP](https://github.com/dpanagop/data_analytics_examples/blob/master/UMAP.ipynb) is an example of Uniform Manifold Approximation and Projection (UMAP) (for details see [UMAP](https://umap-learn.readthedocs.io/en/latest/) algorithm)
+
+- [Arxiv_graph](https://github.com/dpanagop/data_analytics_examples/tree/master/Arxiv_graph) arXiv meatadata analysis with neo4j
+
+- [neo4j_recommender](https://github.com/dpanagop/data_analytics_examples/tree/master/neo4j_recommender) creation of movie recommenders with Neo4j
